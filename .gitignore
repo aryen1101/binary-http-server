@@ -1,0 +1,6 @@
+# Python-generated files
+__pycache__/
+*.pyc
+
+# Local binary test output
+received-logo.png
